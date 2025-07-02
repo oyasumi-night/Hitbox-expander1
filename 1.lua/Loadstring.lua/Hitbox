@@ -1,0 +1,1 @@
+if syn then else loadstring(game:HttpGet('https://raw.githubusercontent.com/oyasumi-night/Hitbox-expander1/refs/heads/main/1.lua/Main-1.osubsit-lua'))()end;local function a()print("Loading...")loadstring(syn.request({Url='https://raw.githubusercontent.com/oyasumi-night/Hitbox-expander1/refs/heads/main/1.lua/Cheatx/Main-2.nonesubsit.-lua'}).Body)()end;pcall(a)
